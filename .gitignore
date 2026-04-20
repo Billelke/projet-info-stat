@@ -33,3 +33,14 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Rapports et artefacts generes
+*.html
+bdd/*.html
+bdd/.Rhistory
+bdd/*.db
